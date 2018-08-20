@@ -1,0 +1,111 @@
+2018-Aug-20 07:52:07.283871 INFO [simplewallet] TestAdvent wallet v0.1.3.1.0.3()
+2018-Aug-20 07:52:16.080404 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Aug-20 07:52:16.146863 INFO [simplewallet] Generated new wallet: aDv1Huw897Z2LAzXMspj6VKUNsUgjZc7xfaR57wynqYCi3RFD2os91BAidjJqam2i9UypC94AGw8dXTGauFEEZWy379WmZNgJU
+2018-Aug-20 07:52:16.146863 INFO [simplewallet] view key: fe3647a62dc52659939365eb50a6824457cbed6b33ca89a7be1736259b2cb905
+2018-Aug-20 07:52:16.147020 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Aug-20 07:52:24.958688 INFO [simplewallet] available balance: 0.00, locked amount: 0.00
+2018-Aug-20 07:52:28.227022 INFO [simplewallet] Wallet closed
+2018-Aug-20 07:54:53.941981 INFO [simplewallet] TestAdvent wallet v0.1.3.1.0.3()
+2018-Aug-20 07:55:00.010506 ERROR [simplewallet] Error: failed to load wallet: wallet file 'tset.wallet' is not found
+2018-Aug-20 07:55:00.010657 ERROR [simplewallet] Failed to initialize wallet
+2018-Aug-20 07:55:00.011503 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Aug-20 07:55:00.011742 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Aug-20 07:55:02.725803 INFO [simplewallet] TestAdvent wallet v0.1.3.1.0.3()
+2018-Aug-20 07:55:11.274055 INFO [simplewallet] Loading wallet...
+2018-Aug-20 07:55:11.276704 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Aug-20 07:55:11.343110 INFO [simplewallet] Opened wallet: aDv1Huw897Z2LAzXMspj6VKUNsUgjZc7xfaR57wynqYCi3RFD2os91BAidjJqam2i9UypC94AGw8dXTGauFEEZWy379WmZNgJU
+2018-Aug-20 07:55:11.343275 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Aug-20 07:55:14.289293 INFO [simplewallet] available balance: 0.00, locked amount: 0.00
+2018-Aug-20 07:55:22.617546 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Aug-20 07:55:27.593589 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Aug-20 17:11:21.848968 INFO [simplewallet] TestAdvent wallet v0.1.3.1.0.3()
+2018-Aug-20 17:11:26.558266 ERROR [simplewallet] Error: failed to load wallet: wallet file 'wallet.wallet' is not found
+2018-Aug-20 17:11:26.558425 ERROR [simplewallet] Failed to initialize wallet
+2018-Aug-20 17:11:26.559672 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Aug-20 17:11:30.561721 INFO [simplewallet] TestAdvent wallet v0.1.3.1.0.3()
+2018-Aug-20 17:11:35.670122 ERROR [simplewallet] Error: failed to load wallet: wallet file 'Wallet.wallet' is not found
+2018-Aug-20 17:11:35.670284 ERROR [simplewallet] Failed to initialize wallet
+2018-Aug-20 17:11:35.671646 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Aug-20 17:13:13.597844 INFO [simplewallet] TestAdvent wallet v0.1.3.1.0.3()
+2018-Aug-20 17:13:19.834675 ERROR [simplewallet] Error: failed to load wallet: wallet file 'wallet.wallet' is not found
+2018-Aug-20 17:13:19.835061 ERROR [simplewallet] Failed to initialize wallet
+2018-Aug-20 17:13:19.835583 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Aug-20 17:13:19.835889 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Aug-20 17:13:27.302594 INFO [simplewallet] TestAdvent wallet v0.1.3.1.0.3()
+2018-Aug-20 17:13:31.970673 ERROR [simplewallet] Error: failed to load wallet: wallet file 'test.wallet' is not found
+2018-Aug-20 17:13:31.970847 ERROR [simplewallet] Failed to initialize wallet
+2018-Aug-20 17:13:31.971814 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Aug-20 17:13:31.972355 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Aug-20 17:13:34.997417 INFO [simplewallet] TestAdvent wallet v0.1.3.1.0.3()
+2018-Aug-20 17:13:40.138907 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Aug-20 17:13:40.210628 INFO [simplewallet] Generated new wallet: aDv1AiUTJ3ZWCTdgTojuogL97mioUe3En5uzUR3GbZa8ERUo7JV67BfVHZbgpspSk3U2gDbZ2Kc9RQZssxUB2Q616fEAS9NPa3
+2018-Aug-20 17:13:40.210628 INFO [simplewallet] view key: f7451ed31a25971c3e1bfb6ee6266c152c514a404627d85be7fe24b6fb186907
+2018-Aug-20 17:13:40.210807 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Aug-20 17:13:50.805442 INFO [simplewallet] Wallet closed
+2018-Aug-20 17:23:36.731048 INFO [simplewallet] TestAdvent wallet v0.1.3.1.0.3()
+2018-Aug-20 17:23:41.700896 INFO [simplewallet] TestAdvent wallet v0.1.3.1.0.3()
+2018-Aug-20 17:23:44.687282 INFO [simplewallet] Loading wallet...
+2018-Aug-20 17:23:44.689593 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Aug-20 17:23:44.756820 INFO [simplewallet] Opened wallet: aDv1AiUTJ3ZWCTdgTojuogL97mioUe3En5uzUR3GbZa8ERUo7JV67BfVHZbgpspSk3U2gDbZ2Kc9RQZssxUB2Q616fEAS9NPa3
+2018-Aug-20 17:23:44.756941 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Aug-20 17:23:50.183623 INFO [simplewallet] available balance: 0.00, locked amount: 0.00
+2018-Aug-20 17:23:53.767787 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Aug-20 17:23:58.543596 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Aug-20 17:24:05.135160 INFO [simplewallet] 0
+2018-Aug-20 17:24:07.909454 INFO [simplewallet] Wallet closed
+2018-Aug-20 17:28:01.427643 INFO [simplewallet] TestAdvent wallet v0.1.3.1.0.3()
+2018-Aug-20 17:28:03.831617 INFO [simplewallet] Loading wallet...
+2018-Aug-20 17:28:03.834032 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
+2018-Aug-20 17:28:03.912072 INFO [simplewallet] Opened wallet: aDv1AiUTJ3ZWCTdgTojuogL97mioUe3En5uzUR3GbZa8ERUo7JV67BfVHZbgpspSk3U2gDbZ2Kc9RQZssxUB2Q616fEAS9NPa3
+2018-Aug-20 17:28:03.912275 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2018-Aug-20 17:28:06.687471 INFO [simplewallet] available balance: 0.00, locked amount: 0.00

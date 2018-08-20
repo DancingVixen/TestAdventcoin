@@ -1,0 +1,1 @@
+TestAdventcoin. Forked from Cryptonote. 
